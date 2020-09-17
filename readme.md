@@ -1,4 +1,4 @@
-# **Cross-channel marketing spend optimization using deep learning - ASSIGNMENT 3-Part2**
+# **Cross-channel marketing spend optimization**
 
 ## **Developed a Data-pipline using  Amazon AWS** 
 
